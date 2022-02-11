@@ -39,6 +39,6 @@ h1::after  {
     font-size: .65em;
     margin-left: 5px;
 }
-.d-loads a {
+/*.d-loads a {
     border: solid 1px;
 }
